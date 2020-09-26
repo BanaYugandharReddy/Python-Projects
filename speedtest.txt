@@ -1,0 +1,10 @@
+# to check the internet speed using python  do the fololowing below
+ 
+1. open terminal and install speedtest-cli from "pip install speedtest-cli"
+
+What is Speedtest Cli?
+ command line interface for testing internet bandwidth using speedtest.net
+
+after installing the speedtest-cli   type the command "speedtest-cli --byte"
+
+
